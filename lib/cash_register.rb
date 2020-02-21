@@ -39,5 +39,4 @@ class CashRegister
     @total -= @last_price
   end 
   
-  
 end 
